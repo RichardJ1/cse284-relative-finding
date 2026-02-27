@@ -1,0 +1,13 @@
+*.bed
+*.bim
+*.fam
+*.genome
+*.nosex
+*.log
+*.seg
+data/*.bed
+data/*.bim
+data/*.fam
+core
+__pycache__/
+.ipynb_checkpoints/
