@@ -17,7 +17,7 @@ Repository for the CSE284 final project "Comparing PLINK vs other methods for Re
 - `results/king_relatedallsegs.txt`
 
 ## Requirements
-- Bash (for `run_1000g_analysis.sh`) — Linux, macOS, or Windows Subsystem for Linux (WSL) recommended on Windows.
+- Bash (for `run_1000g_analysis.sh`).
 - Python 3.x and common scientific packages to open and run the notebook (Jupyter, numpy, pandas, matplotlib). See the notebook for specific environment details.
 
 ## Quickstart
@@ -44,6 +44,4 @@ jupyter lab
 ```
 
 Open `cse284-final-proj.ipynb` and run cells top-to-bottom.
-
-## Author / Contact
-Project files prepared for CSE284 coursework. For questions or issues, contact the project author.
+Alternatively, you can download and run on datahub.ucsd.edu
